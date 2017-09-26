@@ -1,0 +1,24 @@
+{
+  "name": "doom-head",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --presets babel-preset-es2015 --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarocastro/doom-head.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvarocastro/doom-head/issues"
+  },
+  "homepage": "https://github.com/alvarocastro/doom-head#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0"
+  }
+}
