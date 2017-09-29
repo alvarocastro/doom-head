@@ -30,3 +30,6 @@ What? This is the rate at with the head changes it's status (looking at the fron
 ### spriteSheetSrc
 Default: `"https://alvarocastro.github.io/doom-head/doomguy.png"`
 The spritesheet to use, feel free to make your own custom head, or help by hosting it by yourself :)
+
+## Todo
+Everything, this is a work in progress, just uploaded what I got working so far. Will improve the docs, code, and add more features.
