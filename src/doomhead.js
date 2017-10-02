@@ -41,16 +41,6 @@ DoomHead.prototype = {
 	},
 
 	calcStatus: function (health) {
-		/*
-			0	100
-			1	99	80
-			2	79	60
-			3	59	40
-			4	39	20
-			5	19	1
-			6	0
-		*/
-
 		if (health > 100) {
 			return 0;
 		} else if (health <= 0) {

@@ -17,7 +17,7 @@ This changes the size of the head, it's square, so just size is enough.
 
 ### health
 Default: `100`
-Things get fun, this is the health your head will show, just like the game, the lower the health, the more the gore!
+Things can get fun, this is the health your head will show, just like the game, the lower the health, the higher the gore! (just try to not die)
 
 ### antialias
 Default: `false`
